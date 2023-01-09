@@ -1,5 +1,5 @@
 {% set name = "aiohue" %}
-{% set version = "4.6.0" %}
+{% set version = "4.6.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/aiohue-{{ version }}.tar.gz
-  sha256: 7fc073ce70f1893b4ac806a69c6df84d43861c40d68e0425009cd4cbc909c748
+  sha256: afe44307ff2453e20323009cb315de3896d551afd0635b57381a278bb2119d48
 
 build:
   noarch: python
