@@ -1,11 +1,11 @@
-About aiohue
-============
+About aiohue-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiohue-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/home-assistant-libs/aiohue
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiohue-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python module to talk to Philips Hue.
 
